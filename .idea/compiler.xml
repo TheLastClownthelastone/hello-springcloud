@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hello-springcloud-eureka" />
         <module name="hello-springcloud-service-admin" />
+        <module name="hello-springcloud-web-admin-feign" />
         <module name="hello-springcloud-web-admin-ribbon" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="hello-springcloud-dependencies" target="1.8" />
       <module name="hello-springcloud-eureka" target="1.8" />
       <module name="hello-springcloud-service-admin" target="1.8" />
+      <module name="hello-springcloud-web-admin-feign" target="1.8" />
       <module name="hello-springcloud-web-admin-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>

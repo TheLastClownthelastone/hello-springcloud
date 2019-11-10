@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/hello-springcloud-dependencies/hello-springcloud-dependencies.iml" filepath="$PROJECT_DIR$/hello-springcloud-dependencies/hello-springcloud-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-springcloud-eureka/hello-springcloud-eureka.iml" filepath="$PROJECT_DIR$/hello-springcloud-eureka/hello-springcloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-springcloud-service-admin/hello-springcloud-service-admin.iml" filepath="$PROJECT_DIR$/hello-springcloud-service-admin/hello-springcloud-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello=springcloud-web-admin-feign/hello-springcloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/hello=springcloud-web-admin-feign/hello-springcloud-web-admin-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-springcloud-web-admin-ribbon.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-springcloud-web-admin-ribbon.iml" />
     </modules>
   </component>
