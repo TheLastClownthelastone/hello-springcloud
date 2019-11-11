@@ -12,6 +12,6 @@ public class AdminController {
 
     @GetMapping("hi")
     public String sayHi(String message){
-        return adminService.sayHi(message);
+        return adminService.say(message);
     }
 }

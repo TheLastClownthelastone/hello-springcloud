@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/hello-springcloud-service-admin/hello-springcloud-service-admin.iml" filepath="$PROJECT_DIR$/hello-springcloud-service-admin/hello-springcloud-service-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello=springcloud-web-admin-feign/hello-springcloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/hello=springcloud-web-admin-feign/hello-springcloud-web-admin-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-springcloud-web-admin-ribbon.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-springcloud-web-admin-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-zuul/hello-springcloud-zuul.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-zuul/hello-springcloud-zuul.iml" />
     </modules>
   </component>
 </project>
